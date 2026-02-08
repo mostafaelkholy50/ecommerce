@@ -9,19 +9,19 @@ import 'swiper/css/pagination';
 
 const slides = [
   {
-    image: './public/img/slider1.jpg',
+    image: './img/slider1.jpg',
     title: 'Summer Sale Up To 70% Off',
     subtitle: 'Discover the hottest deals on trending fashion & accessories',
     buttonText: 'Shop Now',
   },
   {
-    image: './public/img/slider2.jpg',
+    image: './img/slider2.jpg',
     title: 'New Collection Arrived',
     subtitle: 'Elevate your style with our latest premium arrivals',
     buttonText: 'Explore Collection',
   },
   {
-    image: './public/img/slider3.jpg',
+    image: './img/slider3.jpg',
     title: 'Flash Sale – Limited Time Only',
     subtitle: 'Grab your favorites before they are gone!',
     buttonText: 'Buy Now',
