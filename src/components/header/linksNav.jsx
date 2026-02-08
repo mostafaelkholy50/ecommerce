@@ -30,7 +30,6 @@ export default function NavLinks() {
 
   const mainLinks = [
     { name: "Home", path: "/" },
-    { name: "Offers", path: "/offers" },
   ];
 
   return (

@@ -57,6 +57,7 @@ function App() {
         <Route path='/Product/:id' element={<ProductDetails />} />
         <Route path='/Category/:category' element={<Category />} />
         <Route path='/search' element={<Search />} />
+        <Route path='*' element={<Home />} />
       </Routs>
 
       <Snackbar
