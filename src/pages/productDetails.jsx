@@ -164,9 +164,6 @@ function ProductDetails() {
                                 <button onClick={handelAddToCart} disabled={cart.some(item => item.id === product.id)} className="flex-1 bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-4 rounded-2xl transition-all duration-300 shadow-lg shadow-indigo-200 active:scale-95">
                                     أضف للسلة
                                 </button>
-                                <button className="flex-1 bg-white border-2 border-gray-200 hover:border-gray-900 text-gray-900 font-bold py-4 rounded-2xl transition-all duration-300 active:scale-95">
-                                    شراء الآن
-                                </button>
                             </div>
 
                             <div className="mt-8 pt-8 border-t border-gray-100 flex gap-4">
